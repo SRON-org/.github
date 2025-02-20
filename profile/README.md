@@ -2,7 +2,7 @@
 
 # SRON
 
-SRInternet-Studio Object Notation
+SRInternet-Object Notation
 
 </div>
 
