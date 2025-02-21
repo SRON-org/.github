@@ -1,5 +1,7 @@
 <div align="center">
 
+<image src="https://github.com/user-attachments/assets/7c8336cd-bb42-43fe-a896-4e9723f94c51" height="128"/>
+
 # SRON
 
 SRInternet-Object Notation
