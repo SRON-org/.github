@@ -12,4 +12,4 @@ SRInternet-Object Notation Organization
 
 SRON 团队是 [SRInternet-Studio](https://github.com/SRInternet-Studio/) 的子组织，致力于为开发者创造 **更便捷、高效、统一** 的格式和规范。
 
-SRON 是基于 JSON 二次改编的新一代轻量级数据交互格式，**开放、自由、便捷、高效** 是 SRON 的终身使命，是 SRON 团队的代表作之一。
+SRON 是新一代标准配置文件格式，具有高可自定义性与高兼容性，支持多行文本、多行注释、命名空间与环境变量。**开放、自由、便捷、高效** 是 SRON 的终身使命，是 SRON 团队的代表作之一。
